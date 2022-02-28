@@ -1,0 +1,5 @@
+npm i -g @angular/cli
+
+powershell : Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+ng new todo - css
